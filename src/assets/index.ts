@@ -4,7 +4,7 @@ import CastIcon from "./icons/cast.svg";
 import PlayIcon from "./icons/play.svg";
 import StarIcon from "./icons/star.svg";
 import TruckIcon from "./icons/truck.svg";
-import RightArrowIcon from "./icons/right-arrow.svg";
+import RightArrowIcon from "./icons/arrow-up-right.svg";
 
 // Images
 import BassettImage from "./images/bassett.png";
@@ -12,6 +12,7 @@ import DecorImage from "./images/decor.png";
 import HookerFurnishingsImage from "./images/hookerfurnishings.png";
 import MicrosoftImage from "./images/microsoft.png";
 import Rectangle17Image from "./images/Rectangle 17.png";
+import Rectangle12Image from "./images/Rectangle 12.png";
 import Rectangle19Image from "./images/Rectangle 19.png";
 import Rectangle20Image from "./images/Rectangle 20.png";
 import Rectangle21Image from "./images/Rectangle 21.png";
@@ -35,6 +36,7 @@ export const Images = {
   DecorImage,
   HookerFurnishingsImage,
   MicrosoftImage,
+  Rectangle12Image,
   Rectangle17Image,
   Rectangle19Image,
   Rectangle20Image,
