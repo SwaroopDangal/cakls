@@ -44,18 +44,16 @@ export default function Footer() {
         </div>
 
         {/* RIGHT SIDE */}
-        <div className="ml-auto flex  flex-col gap-7.75 max-w-65">
-          {/* Logo */}
-          <div className="flex items-center justify-end  gap-2.5">
-            <div className="w-5 h-5 bg-red-400"></div>
-            <span className="text-black text-[24px] font-normal">Cakls</span>
+        <div className="w-118 flex flex-col items-end gap-7.75 text-right">
+          <div className="flex items-center gap-2.5">
+            <div className="w-5.5 h-5.5 bg-orange" />
+            <span className="text-[24px] font-[Inter]">Cakls</span>
           </div>
 
-          {/* Text */}
-          <p className="text-[16px] text-gray-500 font-inter leading-6">
+          <p className="text-[16px] leading-6">
             They key difference between ordinary and special. No matter the
             season, our spaces are as nuanced as the lifestyles they reflect,
-            don't just dream it
+            don’t just dream it
           </p>
         </div>
       </div>

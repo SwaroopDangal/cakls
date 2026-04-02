@@ -41,9 +41,9 @@ export default function Products() {
   ];
 
   return (
-    <section className="w-full bg-white py-30 flex justify-center">
-      <div className="max-w-7xl w-full px-10 flex flex-col  gap-19.25">
-        {/* TITLE (left aligned like Figma) */}
+    <section className="w-full bg-white py-30  flex justify-center">
+      <div className="max-w-7xl w-full px-10 mb-50 flex flex-col  gap-19.25">
+        {/* TITLE  */}
         <h2 className="text-[48px] font-bold text-center text-black">
           Top Sale Products
         </h2>

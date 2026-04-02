@@ -15,6 +15,7 @@ const App = () => {
       <Strengths />
       <About />
       <Products />
+      <div className="h-15" />
       <Benefits />
       <Sponsors />
       <Footer />
