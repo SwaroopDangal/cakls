@@ -4,6 +4,7 @@ import Strengths from "./components/Strengths/Strengths";
 import About from "./components/About/About";
 import Products from "./components/Products/Products";
 import Benefits from "./components/Benefits/Benefits";
+import Sponsors from "./components/Sponsors/Sponsors";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <About />
       <Products />
       <Benefits />
+      <Sponsors />
     </div>
   );
 };
