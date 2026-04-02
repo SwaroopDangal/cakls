@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="w-full bg-[#F6F6F6] flex justify-center h-97.5 py-20">
+    <footer className="w-full bg-gray flex justify-center h-97.5 py-20">
       <div className="flex items-center justify-between max-w-6xl w-full px-24">
         {/* LEFT GROUP */}
         <div className="flex gap-24.75">

@@ -34,7 +34,7 @@ export default function Benefits() {
           </div>
 
           {/* Button */}
-          <button className="flex items-center justify-center h-15.5 gap-2.5 px-7 py-4 bg-[#F07171] text-white  w-49.75">
+          <button className="flex items-center justify-center h-15.5 gap-2.5 px-7 py-4 bg-orange text-white  w-49.75">
             <img src={Icons.PlayIcon} alt="play" className="w-6 h-6" />
             <span className="text-white text-xl font-normal font-inter leading-8">
               Watch Intro

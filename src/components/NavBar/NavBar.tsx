@@ -39,7 +39,7 @@ export default function NavBar() {
           <button className="text-sm text-black font-normal font-Inter leading-5.5">
             Log in
           </button>
-          <button className="flex h-10.5 w-20.75  text-white font-Inter text-sm font-normal leading-5.5 justify-center items-center gap-2.5 px-3.5 py-2.5 bg-[#F07171]">
+          <button className="flex h-10.5 w-20.75  text-white font-Inter text-sm font-normal leading-5.5 justify-center items-center gap-2.5 px-3.5 py-2.5 bg-orange">
             Register
           </button>
         </div>

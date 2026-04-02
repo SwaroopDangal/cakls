@@ -14,7 +14,7 @@ export default function Hero() {
             A chair with a high back will provide optimum comfort...
           </p>
 
-          <button className="flex h-15.5 w-51.5 items-center justify-center gap-2.5 bg-[#F07171] text-white">
+          <button className="flex h-15.5 w-51.5 items-center justify-center gap-2.5 bg-orange text-white">
             Explore now
             <img src={Icons.RightArrowIcon} alt="arrow icon" />
           </button>
